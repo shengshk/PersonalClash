@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,announce
 #pt domain
 DOMAIN-SUFFIX,track.m-team.cc
 DOMAIN-SUFFIX,track.open.cd
+DOMAIN-SUFFIX,tracker.greatposterwall.com
+DOMAIN-SUFFIX,zmpt.cc/announce
 
 #DOMAIN-KEYWORD,m-team
 #DOMAIN-SUFFIX,open.cd

@@ -7,8 +7,8 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
 
 #pt domain
-DOMAIN-KEYWORD,m-team
-DOMAIN-SUFFIX,open.cd
+#DOMAIN-KEYWORD,m-team
+#DOMAIN-SUFFIX,open.cd
 #- DOMAIN-KEYWORD,zmpt
 
 

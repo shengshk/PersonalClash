@@ -11,7 +11,11 @@ DOMAIN-SUFFIX,track.m-team.cc
 DOMAIN-SUFFIX,track.open.cd
 DOMAIN-SUFFIX,tracker.greatposterwall.com
 DOMAIN-SUFFIX,zmpt.cc/announce
+DOMAIN-SUFFIX,tracker.pandapt.net
+DOMAIN-SUFFIX,tracker.agsvpt.com
 
 DOMAIN-KEYWORD,m-team
 DOMAIN-SUFFIX,open.cd
 DOMAIN-KEYWORD,zmpt
+DOMAIN-KEYWORD,pandapt
+DOMAIN-KEYWORD,agsvpt

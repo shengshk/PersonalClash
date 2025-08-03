@@ -1,4 +1,7 @@
 # NAME: MyDirect
+# AUTHOR: shengshk
+# REPO: https://github.com/shengshk/PersonalClash
+
 #PT规则
 # 你的目标：「我访问别人，且使用的是本机端口 53954」
 #AND,((SRC-IP-CIDR,10.0.0.4/32),(SRC-PORT,53954))

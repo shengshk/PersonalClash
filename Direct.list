@@ -1,0 +1,14 @@
+#PT规则
+# 你的目标：「我访问别人，且使用的是本机端口 62078」
+AND,((SRC-IP-CIDR,10.0.0.4/32),(SRC-PORT,53954)),DIRECT
+#如果你其实是想处理「别人访问你设备的 62078 端口」的情况，那应该使用：
+AND,((IP-CIDR,10.0.0.4/32),(DST-PORT,53954)),DIRECT
+
+#个人域名
+DOMAIN-SUFFIX,qqssl.fun
+
+#tracker
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,tracker.open.cd
+DOMAIN-SUFFIX,tracker.zhuque.in
+DOMAIN-SUFFIX,tracker.greatposterwall.com

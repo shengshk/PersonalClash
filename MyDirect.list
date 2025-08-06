@@ -9,7 +9,7 @@
 #AND,((IP-CIDR,10.0.0.4/32),(DST-PORT,53954))
 
 #个人域名
-DOMAIN-SUFFIX,qqssl.fun
+#DOMAIN-SUFFIX,qqssl.fun
 
 #tracker
 DOMAIN-SUFFIX,tracker.m-team.cc
